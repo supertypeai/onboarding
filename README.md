@@ -3,7 +3,7 @@
 The Onboarding 🛫 Collection is intended to help you get started with the Supertype Fellowship. It will help you understand the purpose of the Fellowship, how to get started, and how to get the most out of your experience with us. 
 
 You should start by:
-1.  Reading the [Fellowship Overview](https://supertype.co/fellowship/overview)[_not implemented yet_] to understand the purpose of the Fellowship and how it works.
+1.  Reading the [Fellowship Overview](https://supertype.ai/fellowship/overview) ([_not implemented yet_]) to understand the purpose of the Fellowship and how it works.
 2.  Register for an account on [Supertype Fellowship](https://fellowship.supertype.ai)
     - Your Fellowship username will be used to verify your identity in the next step, so choose one that is short and memorable
 3.  Register for a GitHub account, and create a new repository with the name `supertype-fellowship`.
