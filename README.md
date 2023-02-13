@@ -19,4 +19,4 @@ You should start by:
 5.  Sign it to Fellowship with the account you created, bookmark the **Onboarding 🛫 Collection**, click on **Verify Identity** to reveal your 16-digit identity verification code, and paste it into the file you created in step 4.
     - Your verification file should contain only the 16-digit code, and nothing else
 6.  Commit the file to the `main` branch of the repository created in step 3 and push it to GitHub. Once committed, use the 'Mark Challenge as Completed' button on **Onboarding 🛫 Collection** to reveal field for the Proof of Completion.
-    - Enter your GitHub handle in the Proof of Completion field, and click 'Submit'. Verification should be immediate. Congratulations 🎉!
+    - Enter your GitHub username in the Proof of Completion field, and click 'Submit'. Verification should be immediate. Congratulations 🎉!
